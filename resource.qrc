@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/imgres"/>
+    <qresource prefix="/resImg">
+        <file>img/images/bg.png</file>
+        <file>img/images/cross_large.png</file>
+        <file>img/images/cross_small.png</file>
+        <file>img/images/name.png</file>
+        <file>img/images/title_ico.png</file>
+        <file>img/images/zero_large.png</file>
+        <file>img/images/zero_small.png</file>
+        <file>img/fonts/Roboto-Medium.ttf</file>
+        <file>img/fonts/Roboto-MediumItalic.ttf</file>
+    </qresource>
+</RCC>
